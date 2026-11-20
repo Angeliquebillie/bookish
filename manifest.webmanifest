@@ -1,0 +1,22 @@
+{
+  "name": "BOOKISH — Ma bibliothèque",
+  "short_name": "BOOKISH",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf4ed",
+  "theme_color": "#572b40",
+  "description": "Ta bibliothèque personnelle et ton carnet de lecture.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
